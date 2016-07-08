@@ -23,21 +23,35 @@ For demo, run "demo_cdbn.m" in matlab.
 If you find this code useful in your work, please cite one of the following papers:
 
 @inproceedings{Lee+etal09:convDBN,
+
   title = {Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations},
+
   author = {Lee, Honglak and Grosse, Roger and Ranganath, Rajesh and Ng, Andrew Y.},
+
   booktitle = {Proceedings of the 26th International Conference on Machine Learning},
+
   year = {2009},
+
   pages = {609--616},
+
 }
 
 @article{lee2011unsupervised,
+
   title={Unsupervised learning of hierarchical representations with convolutional deep belief networks},
+
   author={Honglak Lee and Roger Grosse and Rajesh Ranganath and A.~Y. Ng},
+
   journal={Communications of the ACM},
+
   volume={54},
+
   number={10},
+
   pages={95--103},
+
   year={2011},
+
   publisher={ACM}
 }
 
