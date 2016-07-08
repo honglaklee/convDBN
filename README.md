@@ -2,18 +2,16 @@
 
 This is a demo code for the convolutional deep belief network (written by Honglak Lee and Kihyuk Sohn):
 
+(Conference version:)
 Honglak Lee, Roger Grosse, Rajesh Ranganath, and Andrew Y. Ng.
 Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations.
 In Proceedings of the 26th International Conference on Machine Learning (ICML), 2009. 
 
-(Conference paper version:)
-
-
+(Journal version:)
 Honglak Lee, Roger Grosse, Rajesh Ranganath, and Andrew Y. Ng.
 Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks.
 Communications of the ACM, vol. 54, no. 10, pp. 95-103, 2011.
 
-(Extended journal version:)
 
 ### Running the demo code:
 For demo, run "demo_cdbn.m" in matlab.
