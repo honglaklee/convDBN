@@ -1,22 +1,26 @@
-# Demo Code for Convolutional Deep Belief Networks 
+# Convolutional Deep Belief Networks 
 
 This is a demo code for the paper:
 
-(Conference version:)
+Honglak Lee, Roger Grosse, Rajesh Ranganath, and Andrew Y. Ng.
 Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations.
-Honglak Lee, Roger Grosse, Rajesh Ranganath, and Andrew Y. Ng.
-In Proceedings of the 26th International Conference on Machine Learning (ICML), 2009.
+In Proceedings of the 26th International Conference on Machine Learning (ICML), 2009. 
 
-(Extended journal version:)
-Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks.
+(Conference paper version:)
+
+
 Honglak Lee, Roger Grosse, Rajesh Ranganath, and Andrew Y. Ng.
+Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks.
 Communications of the ACM, vol. 54, no. 10, pp. 95-103, 2011.
 
+(Extended journal version:)
+
+### Running the demo code:
 For demo, run "demo_cdbn.m" in matlab.
 
------
+### Reference:
 
-If you find this code useful, please cite one of the following papers:
+If you find this code useful in your work, please cite one of the following papers:
 
 @inproceedings{Lee+etal09:convDBN,
   title = {Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations},
@@ -48,6 +52,5 @@ www.vision.caltech.edu/Image_Datasets/Caltech101/
 2. Natural images from Olshausen's sparse net webpage:
 http://redwood.berkeley.edu/bruno/sparsenet/
 
-If you use these datasets, you should cite these papers.
-
+If you use these datasets in your work, you should cite the above data sources.
 
